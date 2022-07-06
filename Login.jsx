@@ -35,7 +35,7 @@ function Login() {
 
                   <p className="mt-2">
                     Don't have an account?{" "}
-                    <a href="/" className="text-blue-700">
+                    <a href="/" className="text-blue-700 hover:underline">
                       Register
                     </a>{" "}
                   </p>
